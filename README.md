@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-fe)
 
-- 👨‍💻 All of my projects are available at [rodolfo-jaspe.vercel.app](rodolfo-jaspe.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rodolfo-jaspe.vercel.app/)
 
 - 📫 How to reach me **rodolfojaspe21@gmail.com**
 
