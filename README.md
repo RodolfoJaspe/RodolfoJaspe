@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Jaspe</h1>
 <h3 align="center">A passionate full stack developer from Miami</h3>
 
-- 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-fe)
+- 🔭 I’m currently working on [Planet Game](planet-ten-tau.vercel.app)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rodolfo-jaspe.vercel.app/)
 
