@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Jaspe</h1>
 <h3 align="center">A passionate full stack developer from Miami</h3>
 
-- 🔭 I’m currently working on [Planet Game](https://github.com/RodolfoJaspe/planet)
+- 🔭 I’m currently working on [Planet](https://github.com/RodolfoJaspe/planet)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rodolfojaspe.com)
 
