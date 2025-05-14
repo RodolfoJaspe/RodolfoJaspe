@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rodolfojaspe21@gmail.com**
 
-- ⚡ Fun fact **I used to be an actor 🎭**
+- ⚡ Fun fact **: I used to be an actor 🎭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
